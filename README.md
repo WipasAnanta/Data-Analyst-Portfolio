@@ -159,7 +159,7 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 **Goal**: To create dashboard to answer user question about PubG and Freefire data.
 
-Description: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.
+**Description**: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.
 
 **Skill**: Google sheet: Pivot table, Data visualization, Dashboard
 
