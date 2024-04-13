@@ -6,6 +6,14 @@ My commitment to continuous learning is evident in my dedication to exploring ne
 My Resume in pdf.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Table of Contents
-  About
-  Portfolio Project
+Table of Contents  
+  - About  
+  - Portfolio Project  
+    - SQL
+    - R
+    - Python
+    - Machine Learning 
+    - DashBoard
+  - Certifications
+  - Contract
+  # Portfolio Projects 
