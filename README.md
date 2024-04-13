@@ -89,9 +89,9 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 ### Share of Global Merchandise Exports
 **Link**:  
-**Goal**: 
+**Goal**:  
 **Description**:  
-**Skill**: 
+**Skill**:  
 **Tool**:  
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
@@ -108,34 +108,34 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 **Description**: Pretending I'm a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discover will then help guide marketing strategy for the company. I will present my analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
 
-**Skill**: Ask right question, Prepare data, Clean data, Analyze data, Visualize data, and Suggesting a recommendation
+**Skill**: Ask right question, Prepare data, Clean data, Analyze data, Visualize data, and Suggesting a recommendation  
 
-**Tool**: Python: pandas, numpy, seaborn, matplotlib
+**Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
-**Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement. 
+**Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
 ## Machine Learning
 ### KNN Model
-**Link**: Tune model using knn model
+**Link**: Tune model using knn model  
 
-**Goal**: To practice machine learning using KNN model and able to tune the model.
+**Goal**: To practice machine learning using KNN model and able to tune the model.  
 
-**Description**: The model development process involved four steps: data splitting, training, scoring, and evaluation. K-fold cross-validation was employed to enhance model accuracy, and preprocessing techniques were integrated.
+**Description**: The model development process involved four steps: data splitting, training, scoring, and evaluation. K-fold cross-validation was employed to enhance model accuracy, and preprocessing techniques were integrated.  
 
-**Skill**: Machine Learning and R programming language
+**Skill**: Machine Learning and R programming language  
 
-**Tool**: Rstudio
+**Tool**: Rstudio  
 
 ## Build Churn Prediction Model  
-**Link**: Churn prediction model
+**Link**: Churn prediction model  
 
-**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.
+**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
 
-**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.
+**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.  
 
-**Skill**: Machine Learning and R programming language
+**Skill**: Machine Learning and R programming language  
 
-**Tool**: Rstudio
+**Tool**: Rstudio  
 
 ## Dashboard
 ### Cannabis Retail Sales
