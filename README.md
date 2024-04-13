@@ -11,7 +11,7 @@ My Resume in pdf.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents  
-  - [About] (https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#sql)
+  - [About](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#about)
   - Portfolio Project 
     - SQL
       - Project: Death Rate Per Age Group in Thailand 2021 Data Exploration
