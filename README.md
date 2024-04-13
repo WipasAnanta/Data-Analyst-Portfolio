@@ -68,6 +68,17 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members. Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August). Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended. This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
+## Creating Chatbot to Order Pizza
+**Link**: Chatbot order pizza  
+
+**Goal**: To create chatbot for user to order pizza  
+
+**Description**: Utilized R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. Function readline() was implemented to ask for user input.  
+
+**Skill**: R programming language: flush.console(), readline(), control flow
+
+**Tool**: Rstudio
+
 
 
 
