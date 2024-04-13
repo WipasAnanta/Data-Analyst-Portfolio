@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)
-  - Certifications
+  - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
   - Contact
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
