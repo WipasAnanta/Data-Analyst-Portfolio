@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+ # Data-Analyst-Portfolio
 ## About
 I am Wipas, I graduated with a Second-Class Honours degree in Business Administration. During my first job, I had the opportunity to manage multiple projects simultaneously. Data management and research were instrumental in my success, fueling my interest and desire to develop my skills in this area beyond project management, I pursued online courses from Google Advance Data Analytics and Datarockie Data Science Bootcamp. These courses have equipped me with a strong foundation in data analysis and a keen interest in using data to extract valuable insights. I am enthusiastic about applying my technical and analytical abilities to the field of data science as an entry-level data analyst.  
 
@@ -52,7 +52,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skill**: Basic SQL statements, subqueries
 
-**Tool**: SQLite
+**Tool**: SQLite  
+
+## R programming language  
+### Project: Cyclistic Bike-Share Analysis Case Study
+**Link**: Cyclistic bike-share
+
+**Goal**: To design a new marketing strategy to convert casual riders into annual members.
+
+Description: Pretending I'm a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compeling data insights and professional data visualizations.
+
+**Skill**: Ask right question, Prepare data, Clean data, Analyze data, Visualize data, and Suggesting a recommendation
+
+**Tool**: R programming language: library(ggplot2) for visualization
+
+**Result**: Our data visualization reveals distinct usage patterns between casual riders and members. Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August). Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended. This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
 
 
