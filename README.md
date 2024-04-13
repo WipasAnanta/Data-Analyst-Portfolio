@@ -88,14 +88,14 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
 ### Share of Global Merchandise Exports
-**Link**:  
+**Link**: Share of Global Merchandise Exports  
 **Goal**:  
 **Description**:  
 **Skill**:  
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**:  
+**Link**: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life
 **Goal**:  
 **Description**:  
 **Skill**:  
