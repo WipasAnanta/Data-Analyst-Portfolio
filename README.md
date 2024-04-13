@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Death Rate Per Age Group in Tha iland 2021 Data Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-death-rate-per-age-group-in-thailand-2021-data-exploration)
       - [Project: Students Performance Data Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
     - [R](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#r-programming-language)
-      - Project: Cyclistic Bike-Share Analysis Case Study
+      - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-cyclistic-bike-share-analysis-case-study)
       - Chatbot Order Pizza
     - Python
       - Project: Average Learning Outcome Vs GDP Per Capita Analysis
