@@ -14,19 +14,62 @@ This is a repository to showcase skills, share projects and track my progress in
   - About  
   - Portfolio Project  
     - SQL
-      - Project : Death Rate Per Age Group in Thailand 2021 Data Exploration 
-      - Project : Students Performance Data Exploration
+      - Project: Death Rate Per Age Group in Thailand 2021 Data Exploration 
+      - Project: Students Performance Data Exploration
     - R
       - Project: Cyclistic Bike-Share Analysis Case Study
       - Chatbot Order Pizza
     - Python
-      - Project : Average Learning Outcome Vs GDP Per Capita Analysis
-      - Project : Share of Global Merchandise Exports
-      - Project : Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life 
-      - Project : Smart Watch Data Analysis
+      - Project: Average Learning Outcome Vs GDP Per Capita Analysis
+      - Project: Share of Global Merchandise Exports
+      - Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life 
+      - Project: Smart Watch Data Analysis
     - Machine Learning 
     - DashBoard
   - Certifications
   - Contact
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## SQL 
+### Project: Death Rate Per Age Group in Thailand 2021 Data Exploration 
+
+### Project: Student Performance Data Exploration
+**Link**: Student performance project  
+
+**Goal**: To explore data using EDA method.  
+
+**Description**: This project entails data acquisition, cleansing, and exploration (Exploratory Data Analysis, or EDA) to uncover patterns. SQL statements and subqueries will be employed to facilitate this in-depth analysis.  
+
+**Skill**: Basic SQL statements, subqueries
+
+**Tool**: SQLite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
