@@ -91,7 +91,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Share of Global Merchandise Exports
 **Link**: Share of Global Merchandise Exports  
 **Goal**: To conduct a historical and current analysis of regional export trends.  
-**Description**:  
+**Description**: Data preparation involving data cleaning through null value imputation, data analysis, and data visualization to analyze regional export trends from 2000 to 2020.
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
