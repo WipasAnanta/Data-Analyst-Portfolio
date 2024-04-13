@@ -169,6 +169,9 @@ Data Sceince Bootcamp (Mar 2024) (Datarockie)
 Correlation and Regression for The Curious(Jan 2024) (Datarockie)  
 Introduction to Data Studio (Jan 2024) (Google Analytics Academy)  
 
+## Contact
+Email: wipas.ananta@gmail.com  
+Linkedin: Wiaps Anantamongkol
 
 
 
