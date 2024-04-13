@@ -171,7 +171,7 @@ Introduction to Data Studio (Jan 2024) (Google Analytics Academy)
 
 ## Contact
 Email: wipas.ananta@gmail.com  
-Linkedin: Wiaps Anantamongkol
+Linkedin: Wipas Anantamongkol
 
 
 
