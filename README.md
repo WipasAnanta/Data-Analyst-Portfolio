@@ -82,10 +82,11 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 ## Python
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
 **Link**: Average Learning Outcome Vs GDP Per Capita  
-**Goal**: To explore data using EDA method.
+**Goal**: To explore data using EDA method.  
 **Description**:  
-**Skill**: Prepare data, Clean data, Analyze data, Visualize data
-**Tool**: Python: pandas, numpy, seaborn, matplotlib  
+**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
+**Tool**: Python: pandas, numpy, seaborn, matplotlib   
+**Result**:  
 
 ### Share of Global Merchandise Exports
 **Link**: Share of Global Merchandise Exports  
@@ -93,6 +94,7 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Description**:  
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
+**Result**:   
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
 **Link**: Correlation of inflation and debt to quality of life  
