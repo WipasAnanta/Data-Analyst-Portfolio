@@ -14,10 +14,16 @@ This is a repository to showcase skills, share projects and track my progress in
   - About  
   - Portfolio Project  
     - SQL
-      - Project : Death rate per age group in thailand 2021 Data Exploration 
+      - Project : Death Rate Per Age Group in Thailand 2021 Data Exploration 
       - Project : Students Performance Data Exploration
     - R
+      - Project: Cyclistic Bike-Share Analysis Case Study
+      - Chatbot Order Pizza
     - Python
+      - Project : Average Learning Outcome Vs GDP Per Capita Analysis
+      - Project : Share of Global Merchandise Exports
+      - Project : Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life 
+      - Project : Smart Watch Data Analysis
     - Machine Learning 
     - DashBoard
   - Certifications
