@@ -95,7 +95,7 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life
+**Link**: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
 **Goal**:  
 **Description**:  
 **Skill**:  
