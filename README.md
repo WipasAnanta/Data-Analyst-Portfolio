@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)
   - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
-  - Contact
+  - [Contact](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
