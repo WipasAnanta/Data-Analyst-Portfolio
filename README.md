@@ -14,6 +14,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - About  
   - Portfolio Project  
     - SQL
+      - Project : Death rate per age group in thailand 2021 Data Exploration 
+      - Project : Students Performance Data Exploration
     - R
     - Python
     - Machine Learning 
