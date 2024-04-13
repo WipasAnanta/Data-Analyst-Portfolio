@@ -148,17 +148,17 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Tool**: Looker studio
 
 ### Mini Dashboard (PubG vs Freefire data)
-Link: Mini dashboad in google sheets
+**Link**: Mini dashboad in google sheets
 
-Goal: To create dashboard to answer user question about PubG and Freefire data.
+**Goal**: To create dashboard to answer user question about PubG and Freefire data.
 
 Description: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.
 
-Skill: Google sheet: Pivot table, Data visualization, Dashboard
+**Skill**: Google sheet: Pivot table, Data visualization, Dashboard
 
-Tool: Google sheets
+**Tool**: Google sheets
 
-Result: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.
+**Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.
 
 ## Certifications
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of   
