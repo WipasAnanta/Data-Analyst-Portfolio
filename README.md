@@ -33,6 +33,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL 
 ### Project: Death Rate Per Age Group in Thailand 2021 Data Exploration 
+**Link**: Death Rate Per Age Group in Thailand 2021
+
+**Goal**: To explore data using EDA method.
+
+**Description**: This Project  blank blank blank
+
+**Skill**: Basic SQL statements, subqueries
+
+**Tool**: BigQuery Sandbox
 
 ### Project: Student Performance Data Exploration
 **Link**: Student performance project  
