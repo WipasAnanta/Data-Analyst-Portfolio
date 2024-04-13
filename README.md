@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-cyclistic-bike-share-analysis-case-study)
       - [Chatbot Order Pizza](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#creating-chatbot-to-order-pizza)
     - [Python](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#python)
-      - Project: Average Learning Outcome Vs GDP Per Capita Analysis
+      - [Project: Average Learning Outcome Vs GDP Per Capita Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-average-learning-outcome-vs-gdp-per-capita-analysis)
       - Project: Share of Global Merchandise Exports
       - Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life 
       - Project: Smart Watch Data Analysis
