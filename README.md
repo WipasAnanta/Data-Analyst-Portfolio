@@ -81,8 +81,8 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 ## Python
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
-**Link**: Average Learning Outcome Vs GDP Per Capita
-**Goal**: 
+**Link**: Average Learning Outcome Vs GDP Per Capita  
+**Goal**:  
 **Description**:  
 **Skill**:  
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
