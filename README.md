@@ -4,8 +4,10 @@ I am Wipas, I graduated with a Second-Class Honours degree in Business Administr
 
 Independent learning further strengthened my ability to handle complex data sets. This period also fostered a keen eye for identifying patterns and trends. Additionally, I expanded my knowledge in machine learning, data management, and statistical analysis, all of which will be valuable assets in my role as a data analyst.  
 
-My commitment to continuous learning is evident in my dedication to exploring new data analysis tools and techniques during my free time. I am constantly seeking opportunities to enhance my knowledge and skillset. Whether working collaboratively or independently, I am motivated by the challenge of uncovering new insights and the gratification of leveraging data to solve complex problems.
-My Resume in pdf.
+My commitment to continuous learning is evident in my dedication to exploring new data analysis tools and techniques during my free time. I am constantly seeking opportunities to enhance my knowledge and skillset. Whether working collaboratively or independently, I am motivated by the challenge of uncovering new insights and the gratification of leveraging data to solve complex problems.  
+
+My Resume in pdf.  
+
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents  
