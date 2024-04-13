@@ -80,7 +80,7 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Tool**: Rstudio
 
 ## Python
-### Project: Bellabeat Data Analysis  
+### Project: Smart Watch Data Analysis  
 **Link**: Bellabeat analysis project
 
 **Goal**: To focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their sma devices.
