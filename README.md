@@ -81,7 +81,7 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 ## Python
 ### Project: Smart Watch Data Analysis  
-**Link**: Bellabeat analysis project
+**Link**: Smart Watch analysis project
 
 **Goal**: To focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their sma devices.
 
@@ -91,13 +91,28 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 **Tool**: Python: pandas, numpy, seaborn, matplotlib
 
-**Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.
+**Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
+ ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
+**Link**: Average Learning Outcome Vs GDP Per Capita
+**Goal**: 
+**Description**:  
+**Skill**:  
+**Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
+### Share of Global Merchandise Exports
+**Link**:  
+**Goal**: 
+**Description**:  
+**Skill**: 
+**Tool**:  
 
-
-
-
+### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
+**Link**:  
+**Goal**:  
+**Description**:  
+**Skill**:  
+**Tool**:  
 
 
 
