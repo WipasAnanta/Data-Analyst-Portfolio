@@ -95,11 +95,16 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Goal**:  
-**Description**:  
-**Skill**:  
+**Link**: Correlation of inflation and debt to quality of life  
+**Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
+
+**Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
+
+**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
+
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
+
+**Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
 
 ### Project: Smart Watch Data Analysis  
 **Link**: Smart Watch analysis project
