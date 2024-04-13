@@ -90,9 +90,9 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 ### Share of Global Merchandise Exports
 **Link**: Share of Global Merchandise Exports  
-**Goal**: To conduct a historical and current analysis of regional export trends.
+**Goal**: To conduct a historical and current analysis of regional export trends.  
 **Description**:  
-**Skill**: Prepare data, Clean data, Analyze data, Visualize data
+**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 **Result**:   
 
