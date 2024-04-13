@@ -114,14 +114,60 @@ Description: Pretending I'm a junior data analyst working on the marketing analy
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement. 
 
+## Machine Learning
+### KNN Model
+**Link**: Tune model using knn model
 
+**Goal**: To practice machine learning using KNN model and able to tune the model.
 
+**Description**: The model development process involved four steps: data splitting, training, scoring, and evaluation. K-fold cross-validation was employed to enhance model accuracy, and preprocessing techniques were integrated.
 
+**Skill**: Machine Learning and R programming language
 
+**Tool**: Rstudio
 
+## Build Churn Prediction Model  
+**Link**: Churn prediction model
 
+**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.
 
+**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.
 
+**Skill**: Machine Learning and R programming language
+
+**Tool**: Rstudio
+
+## Dashboard
+### Cannabis Retail Sales
+**Link**: Cannabis retail sales dashboard
+
+**Goal**: To create dashboard of cannabis retail sales for adult-use and medical use.
+
+**Skill**: Dashboard
+
+**Tool**: Looker studio
+
+### Mini Dashboard (PubG vs Freefire data)
+Link: Mini dashboad in google sheets
+
+Goal: To create dashboard to answer user question about PubG and Freefire data.
+
+Description: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.
+
+Skill: Google sheet: Pivot table, Data visualization, Dashboard
+
+Tool: Google sheets
+
+Result: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.
+
+## Certifications
+While practical experience and demonstrably successful projects are undoubtedly the most effective means of   
+showcasing one's skills, industry certifications can also serve as valuable validation. In this regard, I have obtained the  
+following certifications  
+
+Data Sceince Bootcamp (Mar 2024) (Datarockie)  
+Correlation and Regression for The Curious(Jan 2024) (Datarockie)  
+Introduction to Data Studio (Jan 2024) (Google Analytics Academy)  
 
 
 
