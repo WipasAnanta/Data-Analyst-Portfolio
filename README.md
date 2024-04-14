@@ -206,7 +206,7 @@ While practical experience and demonstrably successful projects are undoubtedly 
 showcasing one's skills, industry certifications can also serve as valuable validation. In this regard, I have obtained the  
 following certifications  
 
-[Data Sceince Bootcamp](https://badgr.com/public/assertions/eWbZM16dQ8CgM-SnE_jVeg?identity__email=wipas2526@gmail.com) (Datarockie) (if it show 403 forbidden_press F5 or resfresh)
+[Data Sceince Bootcamp](https://badgr.com/public/assertions/eWbZM16dQ8CgM-SnE_jVeg?identity__email=wipas2526@gmail.com) (Datarockie) (if it show 403 forbidden, click URL and enter to refresh)
 Correlation and Regression for The Curious(Jan 2024) (Datarockie)  
 Introduction to Data Studio (Jan 2024) (Google Analytics Academy)  
 
