@@ -206,7 +206,34 @@ While practical experience and demonstrably successful projects are undoubtedly 
 showcasing one's skills, industry certifications can also serve as valuable validation. In this regard, I have obtained the  
 following certifications  
 
-[Data Sceince Bootcamp](https://badgr.com/public/assertions/eWbZM16dQ8CgM-SnE_jVeg?identity__email=wipas2526@gmail.com) (Mar 2024) (Datarockie)  
+[Data Sceince Bootcamp]({
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/eWbZM16dQ8CgM-SnE_jVeg",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "TSN1BBgrNK9X4PVY",
+    "hashed": true,
+    "identity": "sha256$31316d51b15be95759ec113d120deaddceee67be64f1e2901e1e83403d4fd1f2"
+  },
+  "badge": "https://api.badgr.io/public/badges/ivb6xLZ9TlaHKWfnjl09Cg",
+  "issuedOn": "2024-03-17T17:00:00Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/eWbZM16dQ8CgM-SnE_jVeg/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Wipas Anantamongkol"
+  }
+}) (Mar 2024) (Datarockie)  
 Correlation and Regression for The Curious(Jan 2024) (Datarockie)  
 Introduction to Data Studio (Jan 2024) (Google Analytics Academy)  
 
