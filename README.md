@@ -170,7 +170,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Dashboard
 ### FRESH MART SALES REPORT
-**Link**: [FRESH MART SALES REPORT](https://lookerstudio.google.com/u/0/reporting/13460bc3-1cb9-4035-a628-8cd75909d37d/page/BIwmD)
+**Link**: [Fresh mart sales report](https://lookerstudio.google.com/reporting/13460bc3-1cb9-4035-a628-8cd75909d37d)
 
 **Goal**: To create dashboard of fresh mart sales for Business overview.
 
