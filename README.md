@@ -206,9 +206,9 @@ While practical experience and demonstrably successful projects are undoubtedly 
 showcasing one's skills, industry certifications can also serve as valuable validation. In this regard, I have obtained the  
 following certifications  
 
-[Data Sceince Bootcamp](https://badgr.com/public/assertions/eWbZM16dQ8CgM-SnE_jVeg?identity__email=wipas2526@gmail.com) (Datarockie)
-Correlation and Regression for The Curious(Jan 2024) (Datarockie)  
-Introduction to Data Studio (Jan 2024) (Google Analytics Academy)  
+[Data Sceince Bootcamp](https://badgr.com/public/assertions/eWbZM16dQ8CgM-SnE_jVeg?identity__email=wipas2526@gmail.com) (Datarockie)  
+[Correlation and Regression for The Curious](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/certificate-of-completion-for-correlation-and-regression-for-the-curious.pdf) (Jan 2024) (Datarockie)  
+[Introduction to Data Studio](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/Course_Certificate.pdf) (Jan 2024) (Google Analytics Academy)  
 
 ## Contact
 Email: wipas.ananta@gmail.com  
