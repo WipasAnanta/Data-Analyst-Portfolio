@@ -84,7 +84,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Data Transformation
 **Link**: [Data transformation](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
 
-**Goal**: Ask five question from NYCflight dataset.  
+**Goal**: Ask five question from NYC flight dataset.  
 
 **Description**: The dataset contains data about flight, arrival time, departure time, and destination. A lot of aggregate functions such as summarise, sum, and mean were utilized to transform data into meaningful insight to answer my questions.  
 
