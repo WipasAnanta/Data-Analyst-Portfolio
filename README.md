@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL 
 ### Project: Death Rate Per Age Group in Thailand 2021 Data Exploration 
-**Link**: Death Rate Per Age Group in Thailand 2021
+**Link**: [Death Rate Per Age Group in Thailand 2021](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Death%20Rate%20Per%20Age%20Group%20in%20Thailand%202021%20Data%20Exploration.sql)  
 
 **Goal**: To explore data using EDA method.
 
