@@ -81,6 +81,28 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio
 
+## Data Transformation
+**Link**: Data transformation  
+
+**Goal**: Ask five question from NYCflight dataset.  
+
+**Description**: The dataset contains data about flight, arrival time, departure time, and destination. A lot of aggregate functions such as summarise, sum, and mean were utilized to transform data into meaningful insight to answer my questions.  
+
+**Skill**: R programming language, Data transformation, Aggregate functions  
+
+**Tool**: Rstudio  
+
+## Data Visualization in R Markdown
+**Link**: Data visualization in R markdown
+
+**Goal**: To create 5 visualization using mpg dataset in Rstudio.
+
+**Description**: MPG dataset in Rstudio was used to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.
+
+**Skill**: R programming language, Data visualization, R markdown
+
+**Tool**: Rstudio
+
 ## Python
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
 **Link**: Average Learning Outcome Vs GDP Per Capita  
