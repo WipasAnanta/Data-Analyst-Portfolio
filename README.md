@@ -81,7 +81,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio
 
-## Data Transformation
+### Data Transformation
 **Link**: Data transformation  
 
 **Goal**: Ask five question from NYCflight dataset.  
@@ -92,7 +92,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-## Data Visualization in R Markdown
+### Data Visualization in R Markdown
 **Link**: Data visualization in R markdown
 
 **Goal**: To create 5 visualization using mpg dataset in Rstudio.
