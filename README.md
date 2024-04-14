@@ -46,7 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: BigQuery Sandbox
 
 ### Project: Student Performance Data Exploration
-**Link**: Student performance project  
+**Link**: [Student performance project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Student%20Performance.sql)    
 
 **Goal**: To explore data using EDA method.  
 
@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## R programming language  
 ### Project: Cyclistic Bike-Share Analysis Case Study
-**Link**: Cyclistic bike-share
+**Link**: [Cyclistic bike-share](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Cyslistic%20project.R)  
 
 **Goal**: To design a new marketing strategy to convert casual riders into annual members.
 
@@ -71,7 +71,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members. Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August). Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended. This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
 ### Creating Chatbot to Order Pizza
-**Link**: Chatbot order pizza  
+**Link**: [Chatbot order pizza](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)    
 
 **Goal**: To create chatbot for user to order pizza  
 
@@ -82,7 +82,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio
 
 ### Data Transformation
-**Link**: Data transformation  
+**Link**: [Data transformation](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
 
 **Goal**: Ask five question from NYCflight dataset.  
 
@@ -93,7 +93,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio  
 
 ### Data Visualization in R Markdown
-**Link**: Data visualization in R markdown
+**Link**: [Data visualization in R markdown](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Hw_Rmarkdown.pdf)
 
 **Goal**: To create 5 visualization using mpg dataset in Rstudio.
 
@@ -105,7 +105,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Python
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
-**Link**: Average Learning Outcome Vs GDP Per Capita  
+**Link**: [Average Learning Outcome Vs GDP Per Capita](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Average_Learning_Outcome_Vs_GDP_Per_Capita.ipynb)    
 **Goal**: To explore data using EDA method.  
 **Description**: Data preprocessing involving data cleaning, outlier detection and removal, data relationship analysis, and data visualization in multiple dimensions.   
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
@@ -113,7 +113,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Project: Share of Global Merchandise Exports
-**Link**: Share of Global Merchandise Exports  
+**Link**: [Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/share_of_global_merchandise_exports.ipynb)  
 **Goal**: To conduct a historical and current analysis of regional export trends.  
 **Description**: Data preparation involving data cleaning through null value imputation, data analysis, and data visualization to analyze regional export trends from 2000 to 2020.  
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
@@ -121,7 +121,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: Correlation of inflation and debt to quality of life  
+**Link**: [Correlation of inflation and debt to quality of life](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life%20.ipynb)    
 **Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
 
 **Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
@@ -133,7 +133,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
 
 ### Project: Smart Watch Data Analysis  
-**Link**: Smart Watch analysis project
+**Link**: [Smart Watch analysis project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)
 
 **Goal**: To focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their sma devices.
 
@@ -147,7 +147,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Machine Learning
 ### KNN Model
-**Link**: Tune model using knn model  
+**Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  
 
@@ -158,7 +158,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio  
 
 ## Build Churn Prediction Model  
-**Link**: Churn prediction model  
+**Link**: [Churn prediction model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
 
 **Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
 
