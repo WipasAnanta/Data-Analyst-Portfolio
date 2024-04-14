@@ -145,6 +145,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
+### Pandas Practice
+**Link**: [Pandas practice](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)    
+
+**Goal**: To practice using pandas foundation function to answer various questions.  
+
+**Skill**: Python: pandas  
+
+**Tool**: Python  
+
 ## Machine Learning
 ### KNN Model
 **Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
