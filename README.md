@@ -109,22 +109,31 @@ data analysis.
 ## Python
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
 **Link**: [Average Learning Outcome Vs GDP Per Capita](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Average_Learning_Outcome_Vs_GDP_Per_Capita.ipynb)    
+
 **Goal**: To explore data using EDA method.  
+
 **Description**: Data preprocessing involving data cleaning, outlier detection and removal, data relationship analysis, and data visualization in multiple dimensions.   
+
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
+
 **Tool**: Python: pandas, numpy, seaborn, matplotlib   
 
 
 ### Project: Share of Global Merchandise Exports
 **Link**: [Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/share_of_global_merchandise_exports.ipynb)  
+
 **Goal**: To conduct a historical and current analysis of regional export trends.  
+
 **Description**: Data preparation involving data cleaning through null value imputation, data analysis, and data visualization to analyze regional export trends from 2000 to 2020.  
+
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
+
 **Tool**: Python: pandas, numpy, seaborn, matplotlib  
 
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: [Correlation of inflation and debt to quality of life](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life%20.ipynb)    
+**Link**: [Correlation of inflation and debt to quality of life](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life%20.ipynb)   
+
 **Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
 
 **Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
