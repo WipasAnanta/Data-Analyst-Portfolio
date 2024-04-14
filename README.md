@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Chatbot Order Pizza](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#creating-chatbot-to-order-pizza)
     - [Python](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#python)
       - [Project: Average Learning Outcome Vs GDP Per Capita Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-average-learning-outcome-vs-gdp-per-capita-analysis)
-      - [Project: Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#share-of-global-merchandise-exports)
+      - [Project: Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-share-of-global-merchandise-exports)
       - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-discover-correlation-between-inflation-rate-and-goverment-debt-to-quality-of-life)
       - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
