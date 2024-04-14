@@ -83,7 +83,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Project: Average Learning Outcome Vs GDP Per Capita Analysis  
 **Link**: Average Learning Outcome Vs GDP Per Capita  
 **Goal**: To explore data using EDA method.  
-**Description**: Data preprocessing involving data cleaning, outlier detection and removal, data relationship analysis, and data visualization in multiple dimensions. 
+**Description**: Data preprocessing involving data cleaning, outlier detection and removal, data relationship analysis, and data visualization in multiple dimensions.   
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
 **Tool**: Python: pandas, numpy, seaborn, matplotlib   
 
