@@ -169,10 +169,10 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio  
 
 ## Dashboard
-### Cannabis Retail Sales
-**Link**: Cannabis retail sales dashboard
+### FRESH MART SALES REPORT
+**Link**: [FRESH MART SALES REPORT](https://lookerstudio.google.com/u/0/reporting/13460bc3-1cb9-4035-a628-8cd75909d37d/page/BIwmD)
 
-**Goal**: To create dashboard of cannabis retail sales for adult-use and medical use.
+**Goal**: To create dashboard of fresh mart sales for Business overview.
 
 **Skill**: Dashboard
 
