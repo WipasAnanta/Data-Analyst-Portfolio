@@ -179,7 +179,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Looker studio
 
 ### Mini Dashboard (PubG vs Freefire data)
-**Link**: Mini dashboad in google sheets
+**Link**: [Mini dashboad in google sheets](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/mini%20dashboard%20-%20Freefire%20vs.%20PubG.xlsx)  
 
 **Goal**: To create dashboard to answer user question about PubG and Freefire data.
 
