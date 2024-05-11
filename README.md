@@ -31,20 +31,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-## SQL 
-### Project: Death Rate Per Age Group in Thailand 2021 Data Exploration 
-**Link**: [Death rate per age group in thailand 2021](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Death%20Rate%20Per%20Age%20Group%20in%20Thailand%202021%20Data%20Exploration.sql)  
-
-**Goal**: To explore deaths by age group and percentage of deaths per population in 2000 & 2021.
-
-**Description**: this data set has infomation about deaths by age group from 2000 to 2021 .
-the project involves getting the data and exploring data to compare total deaths by using exploratory 
-data analysis.  
-
-**Skill**: Basic SQL statements, subqueries
-
-**Tool**: BigQuery Sandbox
-
 ### Project: Student Performance Data Exploration
 **Link**: [Student performance project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Student%20Performance.sql)    
 
@@ -68,18 +54,7 @@ data analysis.
 
 **Tool**: R programming language: library(ggplot2) for visualization
 
-**Result**: Our data visualization reveals distinct usage patterns between casual riders and members. Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August). Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended. This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
-
-### Creating Chatbot to Order Pizza
-**Link**: [Chatbot order pizza](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)    
-
-**Goal**: To create chatbot for user to order pizza  
-
-**Description**: Utilized R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. Function readline() was implemented to ask for user input.  
-
-**Skill**: R programming language: flush.console(), readline(), control flow
-
-**Tool**: Rstudio
+**Result**: Our data visualization reveals distinct usage patterns between casual riders and members. Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August). Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended. This campaign could leverage free trials and discount offers to incentivize membership subscriptions.  
 
 ### Data Transformation
 **Link**: [Data transformation](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
@@ -125,21 +100,7 @@ data analysis.
 
 **Skill**: Prepare data, Clean data, Analyze data, Visualize data  
 
-**Tool**: Python: pandas, numpy, seaborn, matplotlib  
-
-
-### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: [Correlation of inflation and debt to quality of life](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life%20.ipynb)   
-
-**Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
-
-**Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
-
-**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
-
-**Tool**: Python: pandas, numpy, seaborn, matplotlib  
-
-**Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
+**Tool**: Python: pandas, numpy, seaborn, matplotlib    
 
 ### Project: Smart Watch Data Analysis  
 **Link**: [Smart Watch analysis project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)
