@@ -25,7 +25,11 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)  
       - [Pandas Practice](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#pandas-practice) 
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
-    - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)
+    - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
+      - Patients Emergency report  
+      - Car sales report  
+      - Fresh mart sales report  
+      - Mini Dashboard (PubG vs Freefire data)  
   - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
   - [Contact](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
