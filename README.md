@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
       - [Patients Emergency report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#patients-emergency-room-visit-report)  
-      - Car sales report  
+      - [Car sales report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#car-sales-report)    
       - Fresh mart sales report  
       - Mini Dashboard (PubG vs Freefire data)  
   - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
