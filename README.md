@@ -152,6 +152,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### Patients Emergency Room Visit report 
 **Link**: [Patients Emergency](https://app.powerbi.com/view?r=eyJrIjoiM2NmNmFmMTItMzE5Zi00YTNhLWEyNzUtNjcxM2JmNjZjNjVkIiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D)
 
+### Car sales report  
+**Link**: [Car sales report](https://public.tableau.com/views/car_sales_dashboard_project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ### Fresh mart sales report
 **Link**: [Fresh mart sales report](https://lookerstudio.google.com/reporting/13460bc3-1cb9-4035-a628-8cd75909d37d)
 
