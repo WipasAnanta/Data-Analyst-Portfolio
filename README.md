@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Pandas Practice](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#pandas-practice) 
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
-      - Patients Emergency report  
+      - [Patients Emergency report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#patients-emergency-room-visit-report)  
       - Car sales report  
       - Fresh mart sales report  
       - Mini Dashboard (PubG vs Freefire data)  
