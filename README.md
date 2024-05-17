@@ -14,6 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [About](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#about)
   - [Portfolio Project](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - [SQL](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#sql)
+      - Data Cleaning world layoffs
       - [Project: Students Performance Data Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
     - [R](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#r-programming-language)
       - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-cyclistic-bike-share-analysis-case-study)
