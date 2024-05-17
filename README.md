@@ -24,7 +24,6 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Average Learning Outcome Vs GDP Per Capita Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-average-learning-outcome-vs-gdp-per-capita-analysis)
       - [Project: Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-share-of-global-merchandise-exports)
       - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)  
-      - [Pandas Practice](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#pandas-practice) 
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning) 
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
       - [Patients Emergency report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#patients-emergency-room-visit-report)  
