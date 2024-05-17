@@ -23,7 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Python](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#python)
       - [Project: Average Learning Outcome Vs GDP Per Capita Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-average-learning-outcome-vs-gdp-per-capita-analysis)
       - [Project: Share of Global Merchandise Exports](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-share-of-global-merchandise-exports)
-      - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)  
+      - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)
+      - Netflix Exploration
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning)
       - housing price prediction
       - Build Churn Prediction Model
