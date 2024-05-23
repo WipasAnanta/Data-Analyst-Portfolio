@@ -34,8 +34,6 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Car sales report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#car-sales-report)    
       - [Fresh mart sales report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#fresh-mart-sales-report)
       - [Mini Dashboard (PubG vs Freefire data)](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#mini-dashboard-pubg-vs-freefire-data)
-    - specail project
-      - social listening on facebook
   - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
   - [Contact](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
