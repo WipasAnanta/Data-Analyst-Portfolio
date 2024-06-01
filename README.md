@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Project: Smart Watch Data Analysis](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-smart-watch-data-analysis)
       - [Netflix Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-netflix-exploration)
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning)
-      - housing price prediction
+      - [House Price Prediction](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#house-price-prediction)
       - Build Churn Prediction Model
       - KNN Model
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
