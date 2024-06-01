@@ -37,7 +37,20 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Certifications](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#certifications)
   - [Contact](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.  
+
+## SQL  
+
+### Project: Data Cleaning world layoffs  
+**Goal**:  
+
+**Description**:  
+
+**Skill**:  
+
+**Tool**:  
+
+**Result**:  
 
 ### Project: Student Performance Data Exploration
 **Link**: [Student performance project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Student%20Performance.sql)    
