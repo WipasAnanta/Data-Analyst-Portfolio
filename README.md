@@ -197,7 +197,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Link**: [Patients Emergency](https://app.powerbi.com/view?r=eyJrIjoiM2NmNmFmMTItMzE5Zi00YTNhLWEyNzUtNjcxM2JmNjZjNjVkIiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D)  
 
-**Goal**:     
+**Goal**: To create dashboard of Patients Emergency.     
 
 **Skill**: Dashboard    
 
@@ -207,7 +207,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Link**: [Car sales report](https://public.tableau.com/views/car_sales_dashboard_project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
 
-**Goal**:   
+**Goal**: To create dashboard of Car sales for Business overview.
 
 **Skill**: Dashboard  
 
