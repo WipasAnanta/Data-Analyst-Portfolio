@@ -132,7 +132,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Python  
 
-### Project:  
+### Project: Netflix Exploration  
 
 **Link**:  
 
