@@ -132,6 +132,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Python  
 
+### Project:  
+
+**Link**:  
+
+**Goal**:  
+
+**Skill**:  
+
+**Tool**:  
+
 ## Machine Learning
 ### KNN Model
 **Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
