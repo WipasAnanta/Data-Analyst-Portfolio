@@ -156,7 +156,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**:  
 
-## Machine Learning
+## Machine Learning  
+
+### House Price Prediction  
+**Link**:  
+
+**Goal**:  
+
+**Description**:  
+
+**Skill**:  
+
+**Tool**:  
+
 ### KNN Model
 **Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
 
@@ -168,7 +180,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-## Build Churn Prediction Model  
+### Build Churn Prediction Model  
 **Link**: [Churn prediction model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
 
 **Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
