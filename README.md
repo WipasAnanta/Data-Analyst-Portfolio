@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Netflix Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-netflix-exploration)
     - [Machine Learning](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#machine-learning)
       - [House Price Prediction](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#house-price-prediction)
-      - Build Churn Prediction Model
+      - [Build Churn Prediction Model](https://github.com/WipasAnanta/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)
       - KNN Model
     - [DashBoard](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#dashboard)  
       - [Patients Emergency report](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#patients-emergency-room-visit-report)  
