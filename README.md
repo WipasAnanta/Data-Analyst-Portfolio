@@ -148,13 +148,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project: Netflix Exploration  
 
-**Link**:  
+**Link**:  [Netflix Exploration](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Netflix.ipynb)
 
-**Goal**:  
+**Goal**: insights into business trends, analyze public sentiment towards the organization expressed by prominent actors and directors.
 
-**Skill**:  
-
-**Tool**:  
+**Tool**:  Python
 
 ## Machine Learning  
 
