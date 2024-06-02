@@ -152,20 +152,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal**: insights into business trends, analyze public sentiment towards the organization expressed by prominent actors and directors.
 
-**Tool**:  Python
+**Tool**:  Python language
 
 ## Machine Learning  
 
 ### House Price Prediction  
-**Link**:  
+**Link**:  [House Price Prediction](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/House_Price_prediction.ipynb)
 
-**Goal**:  
+**Goal**:  This project aims to predict housing prices using machine learning. 
+By preprocessing and engineering features from a comprehensive dataset  
 
-**Description**:  
+**Description**:  this project developed and evaluated models for predicting housing prices using a comprehensive dataset. Through data exploration, preprocessing, and feature engineering, the dataset's quality was enhanced. Both Linear Regression and Random Forest models were implemented, with the Random Forest model showing superior accuracy. This analysis highlights the effectiveness of data preparation and ensemble methods in real estate price prediction.
 
-**Skill**:  
+**Skill**:  Machine Learning and Python language
 
-**Tool**:  
+**Tool**:  Jupyter notebook
 
 ### KNN Model
 **Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
