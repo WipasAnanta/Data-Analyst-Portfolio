@@ -1,10 +1,12 @@
  # Data-Analyst-Portfolio
 ## About
-I am Wipas, I graduated with a Second-Class Honours degree in Business Administration. During my first job, I had the opportunity to manage multiple projects simultaneously. Data management and research were instrumental in my success, fueling my interest and desire to develop my skills in this area beyond project management, I pursued online courses from Google Advance Data Analytics and Datarockie Data Science Bootcamp. These courses have equipped me with a strong foundation in data analysis and a keen interest in using data to extract valuable insights. I am enthusiastic about applying my technical and analytical abilities to the field of data science as an entry-level data analyst.  
+My name is Wipas. I graduated with second-class honors in Business Administration. During my first job, I had the opportunity to manage multiple projects and liaise with stakeholders on each one. This is just a fraction of the work I have been assigned.
 
-Independent learning further strengthened my ability to handle complex data sets. This period also fostered a keen eye for identifying patterns and trends. Additionally, I expanded my knowledge in machine learning, data management, and statistical analysis, all of which will be valuable assets in my role as a data analyst.  
+Fueling my interest and desire to develop my skills in Business Analysis, I pursued online courses in Data Analysis from Datarockie's Data Science Bootcamp and earned a Business Analyst Professional Certificate from Microsoft. These courses have equipped me with a strong foundation in data analysis and a keen ability to use data to extract valuable insights.
 
-My commitment to continuous learning is evident in my dedication to exploring new data analysis tools and techniques during my free time. I am constantly seeking opportunities to enhance my knowledge and skillset. Whether working collaboratively or independently, I am motivated by the challenge of uncovering new insights and the gratification of leveraging data to solve complex problems.  
+I am enthusiastic about applying my technical and analytical abilities to the fields of qualitative and quantitative analysis. Independent learning has further strengthened my ability to handle complex data sets. This period also fostered a keen eye for identifying patterns and trends. Additionally, I expanded my knowledge in data management and statistical analysis, all of which will be valuable assets in my role as a Business Analyst.
+
+My commitment to continuous learning is evident in my dedication to exploring new data analysis tools and techniques during my free time. I am constantly seeking opportunities to enhance my knowledge and skillset. Whether working collaboratively or independently, I am motivated by the challenge of uncovering new insights and the gratification of leveraging data to solve complex problems.
 
 My Resume in pdf.  
 
