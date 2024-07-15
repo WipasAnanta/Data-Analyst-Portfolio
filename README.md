@@ -44,7 +44,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project: Data Cleaning world layoffs  
 
-**Link**: [Data Cleaning world layoffs]
+**Link**: [Data Cleaning world layoffs](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/world%20layoffs.sql)
 
 **Goal**:  To create a clean, standardized dataset of global layoffs that accurately reflects unique layoff events, ensuring reliable and seamless analysis.
 
