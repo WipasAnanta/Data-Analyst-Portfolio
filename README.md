@@ -44,15 +44,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project: Data Cleaning world layoffs  
 
-**Goal**:  
+**Goal**:  To create a clean, standardized dataset of global layoffs that accurately reflects unique layoff events, ensuring reliable and seamless analysis.
 
-**Description**:  
+**Description**: This project involves the meticulous cleaning of a global layoffs dataset. Key steps include eliminating duplicate entries, standardizing formats, addressing null values, and removing irrelevant data. The result is a refined dataset that accurately reflects unique layoff events, ready for seamless analysis.
 
-**Skill**:  
+**Skill**: Basic SQL
 
 **Tool**: MySQL  
 
-**Result**:  
+**Result**:  I have successfully navigated the initial hurdle of data cleaning. Through a series of steps, I have eliminated duplicate entries, ensuring each record reflects a unique layoff event. Inconsistencies in formatting have been addressed, creating a standardized dataset for seamless analysis. Null and blank values have been managed, minimizing the risk of skewed results. Finally, any extraneous columns or rows have been removed, ensuring our focus remains on the most relevant layoff information.
 
 ### Project: Student Performance Data Exploration
 **Link**: [Student performance project](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Student%20Performance.sql)    
