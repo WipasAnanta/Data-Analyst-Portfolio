@@ -44,6 +44,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project: Data Cleaning world layoffs  
 
+**Link**: [Data Cleaning world layoffs]
+
 **Goal**:  To create a clean, standardized dataset of global layoffs that accurately reflects unique layoff events, ensuring reliable and seamless analysis.
 
 **Description**: This project involves the meticulous cleaning of a global layoffs dataset. Key steps include eliminating duplicate entries, standardizing formats, addressing null values, and removing irrelevant data. The result is a refined dataset that accurately reflects unique layoff events, ready for seamless analysis.
