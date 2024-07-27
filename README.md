@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL  
 
-### Code: Covid-19 project
+### Project: Covid-19 Data Exploration
 [Tableau visualization](https://public.tableau.com/views/CovidDashboard2020-2024_17220642482350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.
