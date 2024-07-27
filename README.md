@@ -18,6 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [SQL](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#sql)
       - [Data Cleaning world layoffs](https://github.com/WipasAnanta/Data-Analyst-Portfolio?tab=readme-ov-file#sql)
       - [Project: Students Performance Data Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
+      - [Covid-19 Data Exploration]
     - [R](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#r-programming-language)
       - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-cyclistic-bike-share-analysis-case-study)
       - [Data Transformation](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#data-transformation)
@@ -41,6 +42,17 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.  
 
 ## SQL  
+
+### Code: Covid-19 project
+[Tableau visualization](https://public.tableau.com/views/CovidDashboard2020-2024_17220642482350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.
+
+**Description**: This dataset has information on COVID-19 cases, deaths, and vaccines for different countries from 2020 to 2024. The project involves getting the data, cleaning it up, and then digging into it to see what's going on (Exploratory Data Analysis, or EDA for short)
+
+**Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization
+
+**Tool**: Bigquery and Tableau
 
 ### Project: Data Cleaning world layoffs  
 
