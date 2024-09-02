@@ -2,7 +2,7 @@
 ## About
 My name is Wipas. I graduated with second-class honors in Business Administration. During my first job, I had the opportunity to manage multiple projects and liaise with stakeholders on each one. This is just a fraction of the work I have been assigned.
 
-Fueling my interest and desire to develop my skills in Business Analysis, I pursued online courses in Data Analysis from Datarockie's Data Science Bootcamp and earned a Business Analyst Professional Certificate from Microsoft. These courses have equipped me with a strong foundation in data analysis and a keen ability to use data to extract valuable insights.
+Fueling my interest and desire to develop my skills in Business Analysis, I pursued online courses in Data Analysis from Datarockie's Data Science Bootcamp and earned a Business Analyst Certificate from Microsoft. These courses have equipped me with a strong foundation in data analysis and a keen ability to use data to extract valuable insights.
 
 I am enthusiastic about applying my technical and analytical abilities to the fields of qualitative and quantitative analysis. Independent learning has further strengthened my ability to handle complex data sets. This period also fostered a keen eye for identifying patterns and trends. Additionally, I expanded my knowledge in data management and statistical analysis, all of which will be valuable assets in my role as a Business Analyst.
 
