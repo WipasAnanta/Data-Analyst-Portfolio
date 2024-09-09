@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [SQL](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#sql)
       - [Data Cleaning world layoffs](https://github.com/WipasAnanta/Data-Analyst-Portfolio?tab=readme-ov-file#sql)
       - [Project: Students Performance Data Exploration](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
-      - [Covid-19 Data Exploration]([https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Covid19_Project.sql](https://github.com/WipasAnanta/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration))
+      - [Covid-19 Data Exploration](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/Covid19_Project.sql](https://github.com/WipasAnanta/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration))
     - [R](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#r-programming-language)
       - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#project-cyclistic-bike-share-analysis-case-study)
       - [Data Transformation](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/README.md#data-transformation)
