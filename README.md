@@ -43,17 +43,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL  
 
-### Project: Covid-19 Data Exploration
-[Tableau visualization](https://public.tableau.com/views/CovidDashboard2020-2024_17220642482350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-**Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.
-
-**Description**: This dataset has information on COVID-19 cases, deaths, and vaccines for different countries from 2020 to 2024. The project involves getting the data, cleaning it up, and then digging into it to see what's going on (Exploratory Data Analysis, or EDA for short)
-
-**Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization
-
-**Tool**: Bigquery and Tableau
-
 ### Project: Data Cleaning world layoffs  
 
 **Link**: [Data Cleaning world layoffs](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/world%20layoffs.sql)
@@ -78,6 +67,17 @@ In this section I will list data analytics projects briefly describing the techn
 **Skill**: Basic SQL statements, subqueries
 
 **Tool**: SQLite  
+
+### Project: Covid-19 Data Exploration
+[Tableau visualization](https://public.tableau.com/views/CovidDashboard2020-2024_17220642482350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.
+
+**Description**: This dataset has information on COVID-19 cases, deaths, and vaccines for different countries from 2020 to 2024. The project involves getting the data, cleaning it up, and then digging into it to see what's going on (Exploratory Data Analysis, or EDA for short)
+
+**Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization
+
+**Tool**: Bigquery and Tableau
 
 ## R programming language  
 ### Project: Cyclistic Bike-Share Analysis Case Study
