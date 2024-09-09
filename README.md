@@ -8,7 +8,7 @@ I am enthusiastic about applying my technical and analytical abilities to the fi
 
 My commitment to continuous learning is evident in my dedication to exploring new data analysis tools and techniques during my free time. I am constantly seeking opportunities to enhance my knowledge and skillset. Whether working collaboratively or independently, I am motivated by the challenge of uncovering new insights and the gratification of leveraging data to solve complex problems.
 
-My Resume in pdf.  
+[My Resume in pdf.](https://github.com/WipasAnanta/Data-Analyst-Portfolio/blob/main/Wipas%20Anantamong.pdf)  
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
