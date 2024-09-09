@@ -183,6 +183,17 @@ By preprocessing and engineering features from a comprehensive dataset
 
 **Tool**:  Jupyter notebook
 
+### Build Churn Prediction Model  
+**Link**: [Churn prediction model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
+
+**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
+
+**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.  
+
+**Skill**: Machine Learning and R programming language  
+
+**Tool**: Rstudio  
+
 ### KNN Model
 **Link**: [Tune model using knn model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/knn_model.R)  
 
@@ -194,16 +205,6 @@ By preprocessing and engineering features from a comprehensive dataset
 
 **Tool**: Rstudio  
 
-### Build Churn Prediction Model  
-**Link**: [Churn prediction model](https://github.com/WipasAnanta/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
-
-**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
-
-**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.  
-
-**Skill**: Machine Learning and R programming language  
-
-**Tool**: Rstudio  
 
 ## Dashboard  
   
